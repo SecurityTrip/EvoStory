@@ -1,6 +1,4 @@
-# Simulator
-
-
+# CityBuildingSim
 
 ## Getting started
 
@@ -15,14 +13,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin http://158.160.13.228/gitlab-instance-560c831e/simulator.git
+git remote add origin http://51.250.89.152/team/citybuildingsim.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](http://158.160.13.228/gitlab-instance-560c831e/simulator/-/settings/integrations)
+- [ ] [Set up project integrations](http://51.250.89.152/team/citybuildingsim/-/settings/integrations)
 
 ## Collaborate with your team
 
