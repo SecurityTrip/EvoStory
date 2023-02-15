@@ -4,6 +4,9 @@ Intermediate
 Saved
 Packaged
 Build
+*.drawio.dtmp
+*.drawio.bkp
+*.drawio
 .vsconfig
 .vscode
 .vs
